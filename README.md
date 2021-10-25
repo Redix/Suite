@@ -1,6 +1,6 @@
 ![Suite](https://www.farmaciascatedral.com/wp-content/uploads/2021/10/suite1.jpg)
 
-#Suite POS#
+**Suite POS**
 
 Suite is a complete POS software developed with Delphi and work with Interbase Database.
 
