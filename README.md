@@ -8,3 +8,7 @@ It has over 100 installations in Bolivia, working with:
 - Supermarkets
 - Pharmacies
 - Restaurants
+
+**Author :** *Raúl Ontiveros*
+
+**Contact :** raul.softwarebo@gmail.com
